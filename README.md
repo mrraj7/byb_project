@@ -1,3 +1,6 @@
+<a name="readme-top"></a>
+
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -7,7 +10,7 @@
     <li>
       <a href="#technology">Technology</a>
     </li>
-    <li><a href="#coding tasks">coding tasks</a></li>
+    <li><a href="#installation">Installation</a></li>
   </ol>
 </details>
 
@@ -28,14 +31,18 @@ Welcome to my BYB project. This project has been created to showcase my python a
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CODING TASKS -->
-## Coding Tasks
+<!-- INSTALLATION -->
+## Installation
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+2. Install the required libraries from command terminal with the command:
+   ```sh
+   pip install
+   ```
+3. Run the code from Juypter notebook
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
