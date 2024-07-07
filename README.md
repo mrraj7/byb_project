@@ -1,5 +1,6 @@
 <a name="readme-top"></a>
 
+# Welcome to my Github repository
 
 <details>
   <summary>Table of Contents</summary>
@@ -38,7 +39,7 @@ Welcome to my BYB project. This project has been created to showcase my python a
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-2. Install the required libraries from command terminal with the command:
+2. Install the required libraries from command terminal:
    ```sh
    pip install
    ```
