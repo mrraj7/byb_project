@@ -3,19 +3,30 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="#technology">Technology</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#usage">coding task</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
   </ol>
 </details>
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+Welcome to my BYB project. This project has been created to showcase my python and machine learning skills.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- TECHNOLOGY -->
+## Getting Started
+
+Technology:
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
