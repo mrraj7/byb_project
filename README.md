@@ -7,8 +7,7 @@
     <li>
       <a href="#technology">Technology</a>
     </li>
-    <li><a href="#usage">coding task</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#coding tasks">coding tasks</a></li>
   </ol>
 </details>
 
@@ -22,10 +21,20 @@ Welcome to my BYB project. This project has been created to showcase my python a
 
 
 <!-- TECHNOLOGY -->
-## Getting Started
+## Technology
 
-Technology:
+    * Python
+    * Jupyter Notebook
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CODING TASKS -->
+## Coding Tasks
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
