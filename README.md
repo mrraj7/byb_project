@@ -28,6 +28,7 @@ Welcome to my BYB project. This project has been created to showcase my python a
 ## Technology
 
     * Python
+    * Visual studio code
     * Jupyter Notebook
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
